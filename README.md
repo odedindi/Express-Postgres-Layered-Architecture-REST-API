@@ -4,13 +4,7 @@ basic CRUD (Create, read, update, delete) app with an Express server and Postgre
 
 ## Installation
 
-```
-yarn
-```
-or 
-```
-yarn install
-```
+```yarn``` or ```yarn install```
 
 
 ## to Run the project please follow the next steps:
@@ -19,11 +13,10 @@ yarn install
 
 2. have postgres installed locally, updated relevant access details in .env file [read here if needed](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/)
    
-3. 
-```
-yarn dev
-```
-Runs the app in the development mode.\
+3. ```yarn dev```
+Runs the app in the development mode.
+
+
 
 
 Project structure:
