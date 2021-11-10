@@ -19,13 +19,12 @@ yarn install
 
 2. have postgres installed locally, updated relevant access details in .env file [read here if needed](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/)
    
-3. to run in development
+3. 
 ```
 yarn dev
 ```
-
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 
 Project structure:
 
