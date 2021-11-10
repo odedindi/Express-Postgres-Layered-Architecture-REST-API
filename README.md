@@ -16,8 +16,8 @@ basic RESTful API built with love using Express, Postgres, Winston, Module-Alias
 Project structure:
 
 ```bash
-"
 root
+├── dist
 ├── logs
 ├── node_modules
 ├── src
@@ -30,7 +30,6 @@ root
 │           └── routes
 ├── app.ts
 └── server.ts
-"
 ```
 
 ## License

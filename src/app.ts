@@ -2,6 +2,7 @@ import compression from 'compression';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import express from 'express';
+import helmet from 'helmet';
 import userRouter from './modules/user/routes/user.routes';
 dotenv.config();
 
@@ -13,6 +14,7 @@ app.use(
 		extended: true,
 	}),
 );
+app.use(helmet());
 
 app.use(cors());
 app.use(compression());
