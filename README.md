@@ -1,4 +1,4 @@
-# CRUD (Create, read, update, delete) app with an Express server and Postgres database.
+# CRUD (Create, read, update, delete) Node.js app with an Express server and Postgres database.
 
 basic RESTful API built with love using Express, Postgres, Winston, Module-Alias TSLint, prettier, Jest, supertest and written in typescript in a Layered Architecture.
 
